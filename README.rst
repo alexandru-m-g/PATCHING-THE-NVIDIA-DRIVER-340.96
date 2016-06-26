@@ -14,6 +14,7 @@ Building the nvidia driver with the patch
 -----------------------------------------
 
 First download the **nvidia.patch** file from this repo. Then run:
+( There are other patches out there like https://lists.opensuse.org/opensuse-factory/2016-06/msg00072.html , https://git.archlinux.org/svntogit/packages.git/plain/trunk/linux-4.6.patch?h=packages/nvidia-340xx but I couldn't get them to work for now ) 
 
 .. code:: bash
 
