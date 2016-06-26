@@ -13,7 +13,7 @@ The following websites helped in building the patch below that works for me:
 Building the nvidia driver with the patch
 -----------------------------------------
 
-First download the *nvidia.patch* file from this gist. Then run:
+First download the **nvidia.patch** file from this repo. Then run:
 
 .. code:: bash
 
